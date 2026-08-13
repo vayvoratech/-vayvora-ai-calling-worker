@@ -1,0 +1,8 @@
+numpy
+pandas
+requests
+python-dotenv
+scikit-learn
+pytest
+flake8
+pip-audit
